@@ -445,9 +445,9 @@ function Mainpage() {
             <ProgramOverview />
             <Study />
             <Career />
-            <Classprofile />
+            {/* <Classprofile />
             <Studentexp />
-            <Ranking />
+            <Ranking /> */}
 
             {/* Scroll-to-Top Button */}
             <button

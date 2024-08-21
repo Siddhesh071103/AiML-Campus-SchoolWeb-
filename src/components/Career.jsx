@@ -50,8 +50,7 @@ function Career() {
                     </div>
                 </div>
             </div>
-
-            <div className="flex flex-col items-center py-10">
+             <div className="flex flex-col items-center py-10">
                 <div className="h-1 w-[80px] bg-yellow-400 mb-2 mx-auto"></div>
                 <h2 className="text-2xl font-bold text-gray-900 mb-6">
                     GRADUATE SALARIES
